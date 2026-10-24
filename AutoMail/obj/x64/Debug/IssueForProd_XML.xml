@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="BatchNum" type="xs:string" minOccurs="0" />
+                <xs:element name="SupplierLot" type="xs:string" minOccurs="0" />
+                <xs:element name="DOCENTRY" type="xs:int" minOccurs="0" />
+                <xs:element name="doc" type="xs:int" minOccurs="0" />
+                <xs:element name="OBJTYPE" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DOCNUM" type="xs:int" minOccurs="0" />
+                <xs:element name="line" type="xs:int" minOccurs="0" />
+                <xs:element name="ITEMCODE" type="xs:string" minOccurs="0" />
+                <xs:element name="ITEMNAME" type="xs:string" minOccurs="0" />
+                <xs:element name="UOM" type="xs:string" minOccurs="0" />
+                <xs:element name="DocDate" type="xs:string" minOccurs="0" />
+                <xs:element name="Location" type="xs:string" minOccurs="0" />
+                <xs:element name="Dept" type="xs:string" minOccurs="0" />
+                <xs:element name="Comments" type="xs:string" minOccurs="0" />
+                <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Truck" type="xs:string" minOccurs="0" />
+                <xs:element name="WhsCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CardCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CardName" type="xs:string" minOccurs="0" />
+                <xs:element name="CANCELED" type="xs:string" minOccurs="0" />
+                <xs:element name="NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="Bin_x0020_Location" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DOCENTRY>4708</DOCENTRY>
+    <doc>4708</doc>
+    <OBJTYPE>60</OBJTYPE>
+    <DOCNUM>10001157</DOCNUM>
+    <line>0</line>
+    <ITEMCODE>COST00057</ITEMCODE>
+    <ITEMNAME>CAN; 26-0-0; 12.5 KG Bag [Stock]</ITEMNAME>
+    <UOM>12.5 KG Bag</UOM>
+    <DocDate>01/08/2021</DocDate>
+    <Location>KHQ</Location>
+    <Dept>LOG</Dept>
+    <Quantity>4.000000</Quantity>
+    <WhsCode>Miyanga</WhsCode>
+    <CANCELED>N</CANCELED>
+    <Bin_x0020_Location>MIYANGA-DAMAGED</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <DOCENTRY>4708</DOCENTRY>
+    <doc>4708</doc>
+    <OBJTYPE>60</OBJTYPE>
+    <DOCNUM>10001157</DOCNUM>
+    <line>0</line>
+    <ITEMCODE>COST00057</ITEMCODE>
+    <ITEMNAME>CAN; 26-0-0; 12.5 KG Bag [Stock]</ITEMNAME>
+    <UOM>12.5 KG Bag</UOM>
+    <DocDate>01/08/2021</DocDate>
+    <Location>KHQ</Location>
+    <Dept>LOG</Dept>
+    <Quantity>1116.000000</Quantity>
+    <WhsCode>Miyanga</WhsCode>
+    <CANCELED>N</CANCELED>
+    <Bin_x0020_Location>MIYANGA-GOOD</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <DOCENTRY>4743</DOCENTRY>
+    <doc>4743</doc>
+    <OBJTYPE>60</OBJTYPE>
+    <DOCNUM>10001162</DOCNUM>
+    <line>0</line>
+    <ITEMCODE>COST01217</ITEMCODE>
+    <ITEMNAME>Vegetable; Sukuma Wiki (Georgia Collards) (50 GMS) [Stock]</ITEMNAME>
+    <UOM>ITEM</UOM>
+    <DocDate>01/08/2021</DocDate>
+    <Location>KHQ</Location>
+    <Dept>LOG</Dept>
+    <Quantity>2000.000000</Quantity>
+    <WhsCode>BGM Main</WhsCode>
+    <CANCELED>N</CANCELED>
+    <Bin_x0020_Location>BGM MAIN-GOOD</Bin_x0020_Location>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,9 @@
+ServerName~DataBaseName~SAPUserId~SapPassword~SqlUserId~SqlPassword~SldServer~FieldsCreate
+NDB@kiwi.oneacrefund.org:30013~SBK_OAF_ACC_KE~BOP~b0P@Farm3r~OAFSAPAdmin~Th3GuruL1v3s@lways~hana.oneacrefund.org~Y
+NDB@kiwi.oneacrefund.org:30013~SBK_OAF_ACC_RW~BOP~b0P@Farm3r~OAFSAPAdmin~Th3GuruL1v3s@lways~hana.oneacrefund.org~Y
+NDB@kiwi.oneacrefund.org:30013~SBK_OAF_ACC_UG~BOP~b0P@Farm3r~OAFSAPAdmin~Th3GuruL1v3s@lways~hana.oneacrefund.org~Y
+NDB@kiwi.oneacrefund.org:30013~SBK_OAF_ACC_TZ_LIVE_300615~BOP~b0P@Farm3r~OAFSAPAdmin~Th3GuruL1v3s@lways~hana.oneacrefund.org~Y
+NDB@kiwi.oneacrefund.org:30013~SBK_OAF_ACC_RW_TBR~BOP~b0P@Farm3r~OAFSAPAdmin~Th3GuruL1v3s@lways~hana.oneacrefund.org~Y
+NDB@kiwi.oneacrefund.org:30013~SBK_OAF_ACC_MAL~BOP~b0P@Farm3r~OAFSAPAdmin~Th3GuruL1v3s@lways~hana.oneacrefund.org~Y
+NDB@kiwi.oneacrefund.org:30013~SBK_OAF_ACC_USA~BOP~b0P@Farm3r~OAFSAPAdmin~Th3GuruL1v3s@lways~hana.oneacrefund.org~Y
+NDB@kiwi.oneacrefund.org:30013~SBK_OAF_ACC_BI~BOP~b0P@Farm3r~OAFSAPAdmin~Th3GuruL1v3s@lways~hana.oneacrefund.org~Y

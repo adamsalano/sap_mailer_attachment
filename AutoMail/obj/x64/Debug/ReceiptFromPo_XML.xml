@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="BatchNum" type="xs:string" minOccurs="0" />
+                <xs:element name="SupplierLot" type="xs:string" minOccurs="0" />
+                <xs:element name="DOCENTRY" type="xs:int" minOccurs="0" />
+                <xs:element name="doc" type="xs:int" minOccurs="0" />
+                <xs:element name="OBJTYPE" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DOCNUM" type="xs:int" minOccurs="0" />
+                <xs:element name="line" type="xs:int" minOccurs="0" />
+                <xs:element name="ITEMCODE" type="xs:string" minOccurs="0" />
+                <xs:element name="ITEMNAME" type="xs:string" minOccurs="0" />
+                <xs:element name="UOM" type="xs:string" minOccurs="0" />
+                <xs:element name="DocDate" type="xs:string" minOccurs="0" />
+                <xs:element name="Location" type="xs:string" minOccurs="0" />
+                <xs:element name="Dept" type="xs:string" minOccurs="0" />
+                <xs:element name="Comments" type="xs:string" minOccurs="0" />
+                <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Truck" type="xs:string" minOccurs="0" />
+                <xs:element name="WhsCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CardCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CardName" type="xs:string" minOccurs="0" />
+                <xs:element name="CANCELED" type="xs:string" minOccurs="0" />
+                <xs:element name="NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="Bin_x0020_Location" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DOCENTRY>939</DOCENTRY>
+    <doc>939</doc>
+    <OBJTYPE>59</OBJTYPE>
+    <DOCNUM>938</DOCNUM>
+    <line>0</line>
+    <ITEMCODE>05-01-148S</ITEMCODE>
+    <ITEMNAME>Energy; Biolite Home System- Panel [Stock]</ITEMNAME>
+    <UOM>ITEM</UOM>
+    <DocDate>21/01/2021</DocDate>
+    <Location>KHQ</Location>
+    <Dept>LOG</Dept>
+    <Quantity>33.000000</Quantity>
+    <WhsCode>BGM Main</WhsCode>
+    <CANCELED>N</CANCELED>
+    <Bin_x0020_Location>BGM MAIN-GOOD</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <DOCENTRY>939</DOCENTRY>
+    <doc>939</doc>
+    <OBJTYPE>59</OBJTYPE>
+    <DOCNUM>938</DOCNUM>
+    <line>1</line>
+    <ITEMCODE>05-01-149S</ITEMCODE>
+    <ITEMNAME>Energy; Biolite Home System- Lamp [Stock]</ITEMNAME>
+    <UOM>ITEM</UOM>
+    <DocDate>21/01/2021</DocDate>
+    <Location>KHQ</Location>
+    <Dept>LOG</Dept>
+    <Quantity>66.000000</Quantity>
+    <WhsCode>BGM Main</WhsCode>
+    <CANCELED>N</CANCELED>
+    <Bin_x0020_Location>BGM MAIN-GOOD</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <DOCENTRY>939</DOCENTRY>
+    <doc>939</doc>
+    <OBJTYPE>59</OBJTYPE>
+    <DOCNUM>938</DOCNUM>
+    <line>2</line>
+    <ITEMCODE>05-01-150S</ITEMCODE>
+    <ITEMNAME>Energy; Biolite Home System- Control Box [Stock]</ITEMNAME>
+    <UOM>ITEM</UOM>
+    <DocDate>21/01/2021</DocDate>
+    <Location>KHQ</Location>
+    <Dept>LOG</Dept>
+    <Quantity>33.000000</Quantity>
+    <WhsCode>BGM Main</WhsCode>
+    <CANCELED>N</CANCELED>
+    <Bin_x0020_Location>BGM MAIN-GOOD</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <DOCENTRY>939</DOCENTRY>
+    <doc>939</doc>
+    <OBJTYPE>59</OBJTYPE>
+    <DOCNUM>938</DOCNUM>
+    <line>3</line>
+    <ITEMCODE>05-01-151S</ITEMCODE>
+    <ITEMNAME>Energy; Biolite Home System- Motion Light [Stock]</ITEMNAME>
+    <UOM>ITEM</UOM>
+    <DocDate>21/01/2021</DocDate>
+    <Location>KHQ</Location>
+    <Dept>LOG</Dept>
+    <Quantity>33.000000</Quantity>
+    <WhsCode>BGM Main</WhsCode>
+    <CANCELED>N</CANCELED>
+    <Bin_x0020_Location>BGM MAIN-GOOD</Bin_x0020_Location>
+  </Table>
+</NewDataSet>

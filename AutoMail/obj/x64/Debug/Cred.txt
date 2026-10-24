@@ -1,0 +1,2 @@
+ServerName~DataBaseName~SAPUserId~SapPassword~SqlUserId~SqlPassword~SldServer~FieldsCreate
+NDB@saphana02.oneacrefund.org:30013~OAF_KE~manager~S@p6DUKA?~OAFSAPAdmin~F@rmers1stFor3v3r!!~saphana02.oneacrefund.org~Y

@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="BatchNum" type="xs:string" minOccurs="0" />
+                <xs:element name="SupplierLot" type="xs:string" minOccurs="0" />
+                <xs:element name="DOCENTRY" type="xs:int" minOccurs="0" />
+                <xs:element name="doc" type="xs:int" minOccurs="0" />
+                <xs:element name="OBJTYPE" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DOCNUM" type="xs:int" minOccurs="0" />
+                <xs:element name="line" type="xs:int" minOccurs="0" />
+                <xs:element name="ITEMCODE" type="xs:string" minOccurs="0" />
+                <xs:element name="ITEMNAME" type="xs:string" minOccurs="0" />
+                <xs:element name="UOM" type="xs:string" minOccurs="0" />
+                <xs:element name="TRNSFRDATE" type="xs:string" minOccurs="0" />
+                <xs:element name="ISSUEWHS" type="xs:string" minOccurs="0" />
+                <xs:element name="Location" type="xs:string" minOccurs="0" />
+                <xs:element name="Dept" type="xs:string" minOccurs="0" />
+                <xs:element name="Comments" type="xs:string" minOccurs="0" />
+                <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+                <xs:element name="From_x0020_Bin_x0020_Location" type="xs:string" minOccurs="0" />
+                <xs:element name="To_x0020_Bin_x0020_Location" type="xs:string" minOccurs="0" />
+                <xs:element name="WhsCode" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DOCENTRY>8371</DOCENTRY>
+    <doc>8371</doc>
+    <OBJTYPE>67</OBJTYPE>
+    <DOCNUM>8371</DOCNUM>
+    <line>0</line>
+    <ITEMCODE>COST00833</ITEMCODE>
+    <ITEMNAME>"Mavuno Peas, Beans, Roots; NPK 15:10:18; 1 KG Bag [Stock]"</ITEMNAME>
+    <UOM>1 KG Bag</UOM>
+    <TRNSFRDATE>07/01/2022</TRNSFRDATE>
+    <ISSUEWHS>BGM Main</ISSUEWHS>
+    <Comments>delivery</Comments>
+    <Quantity>200.000000</Quantity>
+    <From_x0020_Bin_x0020_Location>BGM MAIN-GOOD</From_x0020_Bin_x0020_Location>
+    <To_x0020_Bin_x0020_Location>DUKA-GOOD-SHIANDA</To_x0020_Bin_x0020_Location>
+    <WhsCode>Duka</WhsCode>
+  </Table>
+  <Table>
+    <DOCENTRY>8371</DOCENTRY>
+    <doc>8371</doc>
+    <OBJTYPE>67</OBJTYPE>
+    <DOCNUM>8371</DOCNUM>
+    <line>1</line>
+    <ITEMCODE>COST00015</ITEMCODE>
+    <ITEMNAME>Backpack Sprayer 16L [Stock]</ITEMNAME>
+    <UOM>ITEM</UOM>
+    <TRNSFRDATE>07/01/2022</TRNSFRDATE>
+    <ISSUEWHS>BGM Main</ISSUEWHS>
+    <Comments>delivery</Comments>
+    <Quantity>12.000000</Quantity>
+    <From_x0020_Bin_x0020_Location>BGM MAIN-GOOD</From_x0020_Bin_x0020_Location>
+    <To_x0020_Bin_x0020_Location>DUKA-GOOD-SHIANDA</To_x0020_Bin_x0020_Location>
+    <WhsCode>Duka</WhsCode>
+  </Table>
+</NewDataSet>

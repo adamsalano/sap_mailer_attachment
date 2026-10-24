@@ -1,0 +1,237 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Printed" type="xs:string" minOccurs="0" />
+                <xs:element name="TaxDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="DocNum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DocCurr" type="xs:string" minOccurs="0" />
+                <xs:element name="DocTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CheckSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TrsfrSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CashSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="JrnlMemo" type="xs:string" minOccurs="0" />
+                <xs:element name="Comments" type="xs:string" minOccurs="0" />
+                <xs:element name="DocTotalSy" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DocTotalFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CheckSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TrsfrSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CashSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CardName" type="xs:string" minOccurs="0" />
+                <xs:element name="Address" type="xs:string" minOccurs="0" />
+                <xs:element name="DocEntry" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CreditSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CredSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DiffCurr" type="xs:string" minOccurs="0" />
+                <xs:element name="CardCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CounterRef" type="xs:string" minOccurs="0" />
+                <xs:element name="VatSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="VatSumSy" type="xs:decimal" minOccurs="0" />
+                <xs:element name="VatSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DdctSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DdctSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="InvType" type="xs:string" minOccurs="0" />
+                <xs:element name="OINV.DocDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="OPCH.DocDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="RPCDocDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="DPO.DocDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="DocType" type="xs:string" minOccurs="0" />
+                <xs:element name="SumApplied" type="xs:decimal" minOccurs="0" />
+                <xs:element name="AppliedSys" type="xs:decimal" minOccurs="0" />
+                <xs:element name="AppliedFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="VPM2.InvType" type="xs:string" minOccurs="0" />
+                <xs:element name="DocCur" type="xs:string" minOccurs="0" />
+                <xs:element name="ORIN.DocCur" type="xs:string" minOccurs="0" />
+                <xs:element name="OPCH.DocCur" type="xs:string" minOccurs="0" />
+                <xs:element name="ORPC.DocCur" type="xs:string" minOccurs="0" />
+                <xs:element name="ODPI.DocCur" type="xs:string" minOccurs="0" />
+                <xs:element name="ODPO.DocCur" type="xs:string" minOccurs="0" />
+                <xs:element name="DeposCurr" type="xs:string" minOccurs="0" />
+                <xs:element name="OVPM.DocCurr" type="xs:string" minOccurs="0" />
+                <xs:element name="FCCurrency" type="xs:string" minOccurs="0" />
+                <xs:element name="VPM2.DocEntry" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="ODPO.NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="OINV.NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="OPCH.NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="ORIN.NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="ORPC.NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="OVPM.DocDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="ODPI.DocDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="DueDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="ORIN.DocDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="LicTradNum" type="xs:string" minOccurs="0" />
+                <xs:element name="BeginStr" type="xs:string" minOccurs="0" />
+                <xs:element name="EndStr" type="xs:string" minOccurs="0" />
+                <xs:element name="ODPI.DocNum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ODPO.DocNum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="OINV.DocNum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Number" type="xs:decimal" minOccurs="0" />
+                <xs:element name="OPCH.DocNum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ORIN.DocNum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ORPC.DocNum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TransAbs" type="xs:decimal" minOccurs="0" />
+                <xs:element name="U_CITIExportDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="U_PayMethd" type="xs:string" minOccurs="0" />
+                <xs:element name="U_BANK_ACCT_NO" type="xs:string" minOccurs="0" />
+                <xs:element name="U_PAYEE_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="U_BANK_CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="U_IN_BANK" type="xs:string" minOccurs="0" />
+                <xs:element name="WTSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="WTSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ODPO.WtSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="OVPM.WtSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="WtSumFrgn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NoDocSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NoDocSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ODPO.WTSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="OPCH.DocTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="OPCH.DocTotalFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ORPC.DocTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ORPC.DocTotalFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LocTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="FcTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ODPO.DocTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ODPO.DocTotalFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="U_PMCode" type="xs:string" minOccurs="0" />
+                <xs:element name="U_PM_DESC" type="xs:string" minOccurs="0" />
+                <xs:element name="Remark" type="xs:string" minOccurs="0" />
+                <xs:element name="MainCurncy" type="xs:string" minOccurs="0" />
+                <xs:element name="SysCurrncy" type="xs:string" minOccurs="0" />
+                <xs:element name="ThousSep" type="xs:string" minOccurs="0" />
+                <xs:element name="SumDec" type="xs:decimal" minOccurs="0" />
+                <xs:element name="AcctName" type="xs:string" minOccurs="0" />
+                <xs:element name="TrsfrDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="TrsfrRef" type="xs:string" minOccurs="0" />
+                <xs:element name="CompnyName" type="xs:string" minOccurs="0" />
+                <xs:element name="CompnyAddr" type="xs:string" minOccurs="0" />
+                <xs:element name="CharMonth" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DateFormat" type="xs:string" minOccurs="0" />
+                <xs:element name="DateSep" type="xs:string" minOccurs="0" />
+                <xs:element name="DecSep" type="xs:string" minOccurs="0" />
+                <xs:element name="CurOnRight" type="xs:string" minOccurs="0" />
+                <xs:element name="Manager" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <Printed>N</Printed>
+    <TaxDate>2026-01-28T00:00:00+03:00</TaxDate>
+    <DocNum>100652</DocNum>
+    <DocCurr>KES</DocCurr>
+    <DocTotal>51600</DocTotal>
+    <CheckSum>0</CheckSum>
+    <TrsfrSum>51600</TrsfrSum>
+    <CashSum>0</CashSum>
+    <JrnlMemo>Outgoing Payments - S-G-BDI-0696</JrnlMemo>
+    <Comments>AP 100364</Comments>
+    <DocTotalSy>399.64</DocTotalSy>
+    <DocTotalFC>0</DocTotalFC>
+    <CheckSumFC>0</CheckSumFC>
+    <TrsfrSumFC>0</TrsfrSumFC>
+    <CashSumFC>0</CashSumFC>
+    <CardName>Malco Group Limited</CardName>
+    <Address>NAIROBIKENYA</Address>
+    <DocEntry>2944</DocEntry>
+    <CreditSum>0</CreditSum>
+    <CredSumFC>0</CredSumFC>
+    <DiffCurr>N</DiffCurr>
+    <CardCode>S-G-BDI-0696</CardCode>
+    <CounterRef>100364</CounterRef>
+    <VatSum>0</VatSum>
+    <VatSumSy>0</VatSumSy>
+    <VatSumFC>0</VatSumFC>
+    <DdctSum>0</DdctSum>
+    <DdctSumFC>0</DdctSumFC>
+    <InvType>18</InvType>
+    <OINV.DocDate>1899-12-30T00:00:00+03:00</OINV.DocDate>
+    <OPCH.DocDate>2026-01-05T00:00:00+03:00</OPCH.DocDate>
+    <RPCDocDate>1899-12-30T00:00:00+03:00</RPCDocDate>
+    <DPO.DocDate>1899-12-30T00:00:00+03:00</DPO.DocDate>
+    <DocType>S</DocType>
+    <SumApplied>51600</SumApplied>
+    <AppliedSys>399.64</AppliedSys>
+    <AppliedFC>0</AppliedFC>
+    <VPM2.InvType>18</VPM2.InvType>
+    <DocCur />
+    <ORIN.DocCur />
+    <OPCH.DocCur>KES</OPCH.DocCur>
+    <ORPC.DocCur />
+    <ODPI.DocCur />
+    <ODPO.DocCur />
+    <DeposCurr />
+    <OVPM.DocCurr>KES</OVPM.DocCurr>
+    <FCCurrency />
+    <VPM2.DocEntry>1709</VPM2.DocEntry>
+    <NumAtCard />
+    <ODPO.NumAtCard />
+    <OINV.NumAtCard />
+    <OPCH.NumAtCard />
+    <ORIN.NumAtCard />
+    <ORPC.NumAtCard />
+    <OVPM.DocDate>2026-01-28T00:00:00+03:00</OVPM.DocDate>
+    <ODPI.DocDate>1899-12-30T00:00:00+03:00</ODPI.DocDate>
+    <DueDate>2026-01-27T00:00:00+03:00</DueDate>
+    <ORIN.DocDate>1899-12-30T00:00:00+03:00</ORIN.DocDate>
+    <LicTradNum>P051633373J</LicTradNum>
+    <BeginStr />
+    <EndStr />
+    <ODPI.DocNum>0</ODPI.DocNum>
+    <ODPO.DocNum>0</ODPO.DocNum>
+    <OINV.DocNum>0</OINV.DocNum>
+    <Number>5508435</Number>
+    <OPCH.DocNum>100364</OPCH.DocNum>
+    <ORIN.DocNum>0</ORIN.DocNum>
+    <ORPC.DocNum>0</ORPC.DocNum>
+    <TransAbs>0</TransAbs>
+    <U_CITIExportDate>2026-01-28T00:00:00+03:00</U_CITIExportDate>
+    <U_PayMethd>DFT</U_PayMethd>
+    <U_BANK_ACCT_NO>031000019659</U_BANK_ACCT_NO>
+    <U_PAYEE_NAME>MALCO GROUP LIMITED</U_PAYEE_NAME>
+    <U_BANK_CODE>70000</U_BANK_CODE>
+    <U_IN_BANK>FAMILY BANK LTD</U_IN_BANK>
+    <WTSum>0</WTSum>
+    <WTSumFC>0</WTSumFC>
+    <ODPO.WtSum>0</ODPO.WtSum>
+    <OVPM.WtSum>0</OVPM.WtSum>
+    <WtSumFrgn>0</WtSumFrgn>
+    <NoDocSumFC>0</NoDocSumFC>
+    <NoDocSum>0</NoDocSum>
+    <ODPO.WTSumFC>0</ODPO.WTSumFC>
+    <OPCH.DocTotal>51600</OPCH.DocTotal>
+    <OPCH.DocTotalFC>0</OPCH.DocTotalFC>
+    <ORPC.DocTotal>0</ORPC.DocTotal>
+    <ORPC.DocTotalFC>0</ORPC.DocTotalFC>
+    <LocTotal>51600</LocTotal>
+    <FcTotal>0</FcTotal>
+    <ODPO.DocTotal>0</ODPO.DocTotal>
+    <ODPO.DocTotalFC>0</ODPO.DocTotalFC>
+    <U_PMCode>HLFD</U_PMCode>
+    <U_PM_DESC />
+    <Remark />
+    <MainCurncy>KES</MainCurncy>
+    <SysCurrncy>USD</SysCurrncy>
+    <ThousSep>,</ThousSep>
+    <SumDec>3</SumDec>
+    <AcctName>CitiBank OPS - KES</AcctName>
+    <TrsfrDate>2026-01-28T00:00:00+03:00</TrsfrDate>
+    <TrsfrRef />
+    <CompnyName>One Acre Fund Kenya</CompnyName>
+    <CompnyAddr>KENYA</CompnyAddr>
+    <CharMonth>0</CharMonth>
+    <DateFormat>2</DateFormat>
+    <DateSep>.</DateSep>
+    <DecSep>.</DecSep>
+    <CurOnRight>N</CurOnRight>
+    <Manager />
+  </Table1>
+</NewDataSet>

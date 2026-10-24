@@ -1,0 +1,850 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="U_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="AftLineNum" type="xs:int" minOccurs="0" />
+                <xs:element name="LineSeq" type="xs:int" minOccurs="0" />
+                <xs:element name="SrNo" type="xs:int" minOccurs="0" />
+                <xs:element name="DocCur" type="xs:string" minOccurs="0" />
+                <xs:element name="TaxCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CompVat" type="xs:string" minOccurs="0" />
+                <xs:element name="CompPin" type="xs:string" minOccurs="0" />
+                <xs:element name="ApprovedBy" type="xs:string" minOccurs="0" />
+                <xs:element name="DocEntry" type="xs:int" minOccurs="0" />
+                <xs:element name="DocNum" type="xs:int" minOccurs="0" />
+                <xs:element name="DocDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="DocDueDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CardName" type="xs:string" minOccurs="0" />
+                <xs:element name="NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="VatSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="VatSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="VatSumSy" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DocTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DocTotalFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DocTotalSy" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Comments" type="xs:string" minOccurs="0" />
+                <xs:element name="CurSource" type="xs:string" minOccurs="0" />
+                <xs:element name="Address2" type="xs:string" minOccurs="0" />
+                <xs:element name="WTSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="WTSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="WTSumSC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="RoundDif" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Ref2" type="xs:string" minOccurs="0" />
+                <xs:element name="LicTradNum" type="xs:string" minOccurs="0" />
+                <xs:element name="DiscSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Address" type="xs:string" minOccurs="0" />
+                <xs:element name="Printed" type="xs:string" minOccurs="0" />
+                <xs:element name="TrnspCode" type="xs:short" minOccurs="0" />
+                <xs:element name="Dscription" type="xs:string" minOccurs="0" />
+                <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+                <xs:element name="OcrCode2" type="xs:string" minOccurs="0" />
+                <xs:element name="PriceAfVAT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="FreeTxt" type="xs:string" minOccurs="0" />
+                <xs:element name="unitMsr" type="xs:string" minOccurs="0" />
+                <xs:element name="GTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GTotalFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GTotalSC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SeriesName" type="xs:string" minOccurs="0" />
+                <xs:element name="Price" type="xs:decimal" minOccurs="0" />
+                <xs:element name="VatSumD" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LineTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MachineNo" type="xs:string" minOccurs="0" />
+                <xs:element name="ActSeries" type="xs:string" minOccurs="0" />
+                <xs:element name="ProjectName" type="xs:string" minOccurs="0" />
+                <xs:element name="ICode" type="xs:string" minOccurs="0" />
+                <xs:element name="LineNum" type="xs:int" minOccurs="0" />
+                <xs:element name="WhsName" type="xs:string" minOccurs="0" />
+                <xs:element name="ItmsGrpNam" type="xs:string" minOccurs="0" />
+                <xs:element name="U_TruckID" type="xs:string" minOccurs="0" />
+                <xs:element name="Bin_x0020_Code" type="xs:string" minOccurs="0" />
+                <xs:element name="ItemCode" type="xs:string" minOccurs="0" />
+                <xs:element name="BatchNum" type="xs:string" minOccurs="0" />
+                <xs:element name="WhsCode" type="xs:string" minOccurs="0" />
+                <xs:element name="LineNum1" type="xs:long" minOccurs="0" />
+                <xs:element name="ItemName" type="xs:string" minOccurs="0" />
+                <xs:element name="BaseType" type="xs:int" minOccurs="0" />
+                <xs:element name="BaseEntry" type="xs:int" minOccurs="0" />
+                <xs:element name="BaseNum" type="xs:int" minOccurs="0" />
+                <xs:element name="BaseLinNum" type="xs:int" minOccurs="0" />
+                <xs:element name="DocDate1" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Quantity1" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CardCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CardName1" type="xs:string" minOccurs="0" />
+                <xs:element name="Direction" type="xs:int" minOccurs="0" />
+                <xs:element name="CreateDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="BsDocType" type="xs:int" minOccurs="0" />
+                <xs:element name="BsDocEntry" type="xs:int" minOccurs="0" />
+                <xs:element name="BsDocLine" type="xs:int" minOccurs="0" />
+                <xs:element name="DataSource" type="xs:string" minOccurs="0" />
+                <xs:element name="UserSign" type="xs:int" minOccurs="0" />
+                <xs:element name="ItemCode1" type="xs:string" minOccurs="0" />
+                <xs:element name="SysNumber" type="xs:int" minOccurs="0" />
+                <xs:element name="DistNumber" type="xs:string" minOccurs="0" />
+                <xs:element name="MnfSerial" type="xs:string" minOccurs="0" />
+                <xs:element name="LotNumber" type="xs:string" minOccurs="0" />
+                <xs:element name="ExpDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="MnfDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="InDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="GrntStart" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="GrntExp" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CreateDate1" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Location" type="xs:string" minOccurs="0" />
+                <xs:element name="Status" type="xs:string" minOccurs="0" />
+                <xs:element name="Notes" type="xs:string" minOccurs="0" />
+                <xs:element name="DataSource1" type="xs:string" minOccurs="0" />
+                <xs:element name="UserSign1" type="xs:short" minOccurs="0" />
+                <xs:element name="Transfered" type="xs:string" minOccurs="0" />
+                <xs:element name="Instance" type="xs:short" minOccurs="0" />
+                <xs:element name="AbsEntry" type="xs:int" minOccurs="0" />
+                <xs:element name="ObjType" type="xs:string" minOccurs="0" />
+                <xs:element name="itemName1" type="xs:string" minOccurs="0" />
+                <xs:element name="LogInstanc" type="xs:int" minOccurs="0" />
+                <xs:element name="UserSign2" type="xs:short" minOccurs="0" />
+                <xs:element name="UpdateDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CostTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Quantity2" type="xs:decimal" minOccurs="0" />
+                <xs:element name="QuantOut" type="xs:decimal" minOccurs="0" />
+                <xs:element name="PriceDiff" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Balance" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TrackingNt" type="xs:int" minOccurs="0" />
+                <xs:element name="TrackiNtLn" type="xs:int" minOccurs="0" />
+                <xs:element name="SumDec" type="xs:short" minOccurs="0" />
+                <xs:element name="U_Attachment1" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <U_NAME>SAP Admin</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10255</DocEntry>
+    <DocNum>10255</DocNum>
+    <DocDate>2021-11-30T00:00:00+03:00</DocDate>
+    <DocDueDate>2021-11-30T00:00:00+03:00</DocDueDate>
+    <CardName>Western Seed Company Ltd</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>120797.920000</DocTotal>
+    <DocTotalFC>121.040000</DocTotalFC>
+    <DocTotalSy>121.040000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #15633</Comments>
+    <CurSource>C</CurSource>
+    <Address2>6640 - KacyiruKIGALI - KACYIRURWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>P000613949Y</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Address>1022 KitaleRWANDA</Address>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; WH 605; 2 KG Bag [Stock]</Dscription>
+    <Quantity>68.000000</Quantity>
+    <OcrCode2>FOP</OcrCode2>
+    <PriceAfVAT>1.780000</PriceAfVAT>
+    <unitMsr>KGS</unitMsr>
+    <GTotal>120797.920000</GTotal>
+    <GTotalFC>121.040000</GTotalFC>
+    <GTotalSC>121.040000</GTotalSC>
+    <Price>1.780000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>120797.920000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00810</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Karongi</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <U_TruckID>rac324</U_TruckID>
+    <Bin_x0020_Code>KARONGI-GOOD</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>SAP Admin</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10255</DocEntry>
+    <DocNum>10255</DocNum>
+    <DocDate>2021-11-30T00:00:00+03:00</DocDate>
+    <DocDueDate>2021-11-30T00:00:00+03:00</DocDueDate>
+    <CardName>Western Seed Company Ltd</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>120797.920000</DocTotal>
+    <DocTotalFC>121.040000</DocTotalFC>
+    <DocTotalSy>121.040000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #15633</Comments>
+    <CurSource>C</CurSource>
+    <Address2>6640 - KacyiruKIGALI - KACYIRURWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>P000613949Y</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Address>1022 KitaleRWANDA</Address>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; WH 605; 2 KG Bag [Stock]</Dscription>
+    <Quantity>68.000000</Quantity>
+    <OcrCode2>FOP</OcrCode2>
+    <PriceAfVAT>1.780000</PriceAfVAT>
+    <unitMsr>KGS</unitMsr>
+    <GTotal>120797.920000</GTotal>
+    <GTotalFC>121.040000</GTotalFC>
+    <GTotalSC>121.040000</GTotalSC>
+    <Price>1.780000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>120797.920000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00810</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Karongi</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <U_TruckID>rac324</U_TruckID>
+    <Bin_x0020_Code>KARONGI-DAMAGED</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>SAP Admin</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10256</DocEntry>
+    <DocNum>10256</DocNum>
+    <DocDate>2021-12-02T00:00:00+03:00</DocDate>
+    <DocDueDate>2021-12-02T00:00:00+03:00</DocDueDate>
+    <CardName>Western Seed Company Ltd</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>34888.000000</DocTotal>
+    <DocTotalFC>35.600000</DocTotalFC>
+    <DocTotalSy>35.600000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #15633</Comments>
+    <CurSource>C</CurSource>
+    <Address2>6640 - KacyiruKIGALI - KACYIRURWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>P000613949Y</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Address>1022 KitaleRWANDA</Address>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; WH 605; 2 KG Bag [Stock]</Dscription>
+    <Quantity>20.000000</Quantity>
+    <OcrCode2>FOP</OcrCode2>
+    <PriceAfVAT>1.780000</PriceAfVAT>
+    <unitMsr>KGS</unitMsr>
+    <GTotal>34888.000000</GTotal>
+    <GTotalFC>35.600000</GTotalFC>
+    <GTotalSC>35.600000</GTotalSC>
+    <Price>1.780000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>34888.000000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00810</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Karongi</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <U_TruckID>rac453</U_TruckID>
+    <Bin_x0020_Code>KARONGI-GOOD</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>SAP Admin</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10256</DocEntry>
+    <DocNum>10256</DocNum>
+    <DocDate>2021-12-02T00:00:00+03:00</DocDate>
+    <DocDueDate>2021-12-02T00:00:00+03:00</DocDueDate>
+    <CardName>Western Seed Company Ltd</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>34888.000000</DocTotal>
+    <DocTotalFC>35.600000</DocTotalFC>
+    <DocTotalSy>35.600000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #15633</Comments>
+    <CurSource>C</CurSource>
+    <Address2>6640 - KacyiruKIGALI - KACYIRURWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>P000613949Y</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Address>1022 KitaleRWANDA</Address>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; WH 605; 2 KG Bag [Stock]</Dscription>
+    <Quantity>20.000000</Quantity>
+    <OcrCode2>FOP</OcrCode2>
+    <PriceAfVAT>1.780000</PriceAfVAT>
+    <unitMsr>KGS</unitMsr>
+    <GTotal>34888.000000</GTotal>
+    <GTotalFC>35.600000</GTotalFC>
+    <GTotalSC>35.600000</GTotalSC>
+    <Price>1.780000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>34888.000000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00810</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Karongi</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <U_TruckID>rac453</U_TruckID>
+    <Bin_x0020_Code>KARONGI-DAMAGED</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>SAP Admin</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10257</DocEntry>
+    <DocNum>10257</DocNum>
+    <DocDate>2021-12-12T00:00:00+03:00</DocDate>
+    <DocDueDate>2021-12-12T00:00:00+03:00</DocDueDate>
+    <CardName>Biolite</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>0.000000</DocTotal>
+    <DocTotalFC>0.000000</DocTotalFC>
+    <DocTotalSy>0.000000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #20043</Comments>
+    <CurSource>C</CurSource>
+    <Address2>6640 - KacyiruKIGALI - KACYIRURWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>27-2826296</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Energy; Biolite Home System [Stock]</Dscription>
+    <Quantity>12.000000</Quantity>
+    <OcrCode2>PRO</OcrCode2>
+    <PriceAfVAT>0.000000</PriceAfVAT>
+    <unitMsr>ITEM</unitMsr>
+    <GTotal>0.000000</GTotal>
+    <GTotalFC>0.000000</GTotalFC>
+    <GTotalSC>0.000000</GTotalSC>
+    <Price>0.000000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>0.000000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00234</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Nyanza</WhsName>
+    <ItmsGrpNam>Solar</ItmsGrpNam>
+    <U_TruckID />
+    <Bin_x0020_Code>NYANZA-GOOD</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>SAP Admin</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10258</DocEntry>
+    <DocNum>10258</DocNum>
+    <DocDate>2021-12-13T00:00:00+03:00</DocDate>
+    <DocDueDate>2021-12-13T00:00:00+03:00</DocDueDate>
+    <CardName>Biolite</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>0.000000</DocTotal>
+    <DocTotalFC>0.000000</DocTotalFC>
+    <DocTotalSy>0.000000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #19717</Comments>
+    <CurSource>C</CurSource>
+    <Address2>6640 - KacyiruKIGALI - KACYIRURWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>27-2826296</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Energy; Biolite Home System [Stock]</Dscription>
+    <Quantity>20.000000</Quantity>
+    <OcrCode2>PRO</OcrCode2>
+    <PriceAfVAT>0.000000</PriceAfVAT>
+    <unitMsr>ITEM</unitMsr>
+    <GTotal>0.000000</GTotal>
+    <GTotalFC>0.000000</GTotalFC>
+    <GTotalSC>0.000000</GTotalSC>
+    <Price>0.000000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>0.000000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00234</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Butare</WhsName>
+    <ItmsGrpNam>Solar</ItmsGrpNam>
+    <U_TruckID>yyhjmk</U_TruckID>
+    <Bin_x0020_Code>BUTARE-GOOD</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>SAP Admin</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10259</DocEntry>
+    <DocNum>10259</DocNum>
+    <DocDate>2021-12-13T00:00:00+03:00</DocDate>
+    <DocDueDate>2021-12-13T00:00:00+03:00</DocDueDate>
+    <CardName>Biolite</CardName>
+    <NumAtCard>34</NumAtCard>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>0.000000</DocTotal>
+    <DocTotalFC>0.000000</DocTotalFC>
+    <DocTotalSy>0.000000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #19717</Comments>
+    <CurSource>C</CurSource>
+    <Address2>6640 - KacyiruKIGALI - KACYIRURWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>27-2826296</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Energy; Biolite Home System [Stock]</Dscription>
+    <Quantity>10.000000</Quantity>
+    <OcrCode2>PRO</OcrCode2>
+    <PriceAfVAT>0.000000</PriceAfVAT>
+    <unitMsr>ITEM</unitMsr>
+    <GTotal>0.000000</GTotal>
+    <GTotalFC>0.000000</GTotalFC>
+    <GTotalSC>0.000000</GTotalSC>
+    <Price>0.000000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>0.000000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00234</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>New Kayonza</WhsName>
+    <ItmsGrpNam>Solar</ItmsGrpNam>
+    <U_TruckID>t356</U_TruckID>
+    <Bin_x0020_Code>NEWKAYON-GOOD</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>SAP Admin</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10260</DocEntry>
+    <DocNum>10260</DocNum>
+    <DocDate>2022-01-06T00:00:00+03:00</DocDate>
+    <DocDueDate>2022-01-06T00:00:00+03:00</DocDueDate>
+    <CardName>Western Seed Company Ltd</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>3488.800000</DocTotal>
+    <DocTotalFC>3.560000</DocTotalFC>
+    <DocTotalSy>3.560000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #15633</Comments>
+    <CurSource>C</CurSource>
+    <Address2>6640 - KacyiruKIGALI - KACYIRURWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>P000613949Y</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Address>1022 KitaleRWANDA</Address>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; WH 605; 2 KG Bag [Stock]</Dscription>
+    <Quantity>2.000000</Quantity>
+    <OcrCode2>FOP</OcrCode2>
+    <PriceAfVAT>1.780000</PriceAfVAT>
+    <unitMsr>KGS</unitMsr>
+    <GTotal>3488.800000</GTotal>
+    <GTotalFC>3.560000</GTotalFC>
+    <GTotalSC>3.560000</GTotalSC>
+    <Price>1.780000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>3488.800000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00810</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Karongi</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <U_TruckID>idf34</U_TruckID>
+    <Bin_x0020_Code>KARONGI-GOOD</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>SAP Admin</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10261</DocEntry>
+    <DocNum>10261</DocNum>
+    <DocDate>2022-01-24T00:00:00+03:00</DocDate>
+    <DocDueDate>2022-01-24T00:00:00+03:00</DocDueDate>
+    <CardName>Western Seed Company Ltd</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>38376.800000</DocTotal>
+    <DocTotalFC>39.160000</DocTotalFC>
+    <DocTotalSy>39.160000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #15633</Comments>
+    <CurSource>C</CurSource>
+    <Address2>6640 - KacyiruKIGALI - KACYIRURWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>P000613949Y</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Address>1022 KitaleRWANDA</Address>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; WH 605; 2 KG Bag [Stock]</Dscription>
+    <Quantity>22.000000</Quantity>
+    <OcrCode2>FOP</OcrCode2>
+    <PriceAfVAT>1.780000</PriceAfVAT>
+    <unitMsr>KGS</unitMsr>
+    <GTotal>38376.800000</GTotal>
+    <GTotalFC>39.160000</GTotalFC>
+    <GTotalSC>39.160000</GTotalSC>
+    <Price>1.780000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>38376.800000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00810</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Karongi</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <U_TruckID>rac111</U_TruckID>
+    <Bin_x0020_Code>KARONGI-GOOD</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>SAP Admin</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10261</DocEntry>
+    <DocNum>10261</DocNum>
+    <DocDate>2022-01-24T00:00:00+03:00</DocDate>
+    <DocDueDate>2022-01-24T00:00:00+03:00</DocDueDate>
+    <CardName>Western Seed Company Ltd</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>38376.800000</DocTotal>
+    <DocTotalFC>39.160000</DocTotalFC>
+    <DocTotalSy>39.160000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #15633</Comments>
+    <CurSource>C</CurSource>
+    <Address2>6640 - KacyiruKIGALI - KACYIRURWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>P000613949Y</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Address>1022 KitaleRWANDA</Address>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; WH 605; 2 KG Bag [Stock]</Dscription>
+    <Quantity>22.000000</Quantity>
+    <OcrCode2>FOP</OcrCode2>
+    <PriceAfVAT>1.780000</PriceAfVAT>
+    <unitMsr>KGS</unitMsr>
+    <GTotal>38376.800000</GTotal>
+    <GTotalFC>39.160000</GTotalFC>
+    <GTotalSC>39.160000</GTotalSC>
+    <Price>1.780000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>38376.800000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00810</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Karongi</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <U_TruckID>rac111</U_TruckID>
+    <Bin_x0020_Code>KARONGI-DAMAGED</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>Pauline Poulet</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10262</DocEntry>
+    <DocNum>10262</DocNum>
+    <DocDate>2022-01-24T00:00:00+03:00</DocDate>
+    <DocDueDate>2022-01-24T00:00:00+03:00</DocDueDate>
+    <CardName>Western Seed Company Ltd</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>3488.800000</DocTotal>
+    <DocTotalFC>3.560000</DocTotalFC>
+    <DocTotalSy>3.560000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #15633 Based On Purchase Orders 20002533.</Comments>
+    <CurSource>C</CurSource>
+    <Address2>RWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>P000613949Y</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Address>1022 KitaleRWANDA</Address>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; WH 605; 2 KG Bag [Stock]</Dscription>
+    <Quantity>2.000000</Quantity>
+    <OcrCode2>FOP</OcrCode2>
+    <PriceAfVAT>1.780000</PriceAfVAT>
+    <unitMsr>KGS</unitMsr>
+    <GTotal>3488.800000</GTotal>
+    <GTotalFC>3.560000</GTotalFC>
+    <GTotalSC>3.560000</GTotalSC>
+    <Price>1.780000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>3488.800000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00810</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Karongi</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <Bin_x0020_Code>KARONGI-DAMAGED</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>Pauline Poulet</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10262</DocEntry>
+    <DocNum>10262</DocNum>
+    <DocDate>2022-01-24T00:00:00+03:00</DocDate>
+    <DocDueDate>2022-01-24T00:00:00+03:00</DocDueDate>
+    <CardName>Western Seed Company Ltd</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>3488.800000</DocTotal>
+    <DocTotalFC>3.560000</DocTotalFC>
+    <DocTotalSy>3.560000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #15633 Based On Purchase Orders 20002533.</Comments>
+    <CurSource>C</CurSource>
+    <Address2>RWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>P000613949Y</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Address>1022 KitaleRWANDA</Address>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; WH 605; 2 KG Bag [Stock]</Dscription>
+    <Quantity>2.000000</Quantity>
+    <OcrCode2>FOP</OcrCode2>
+    <PriceAfVAT>1.780000</PriceAfVAT>
+    <unitMsr>KGS</unitMsr>
+    <GTotal>3488.800000</GTotal>
+    <GTotalFC>3.560000</GTotalFC>
+    <GTotalSC>3.560000</GTotalSC>
+    <Price>1.780000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>3488.800000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00810</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Karongi</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <Bin_x0020_Code>KARONGI-DAMAGED</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>Pauline Poulet</U_NAME>
+    <AftLineNum>1</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10262</DocEntry>
+    <DocNum>10262</DocNum>
+    <DocDate>2022-01-24T00:00:00+03:00</DocDate>
+    <DocDueDate>2022-01-24T00:00:00+03:00</DocDueDate>
+    <CardName>Western Seed Company Ltd</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>3488.800000</DocTotal>
+    <DocTotalFC>3.560000</DocTotalFC>
+    <DocTotalSy>3.560000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #15633 Based On Purchase Orders 20002533.</Comments>
+    <CurSource>C</CurSource>
+    <Address2>RWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>P000613949Y</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Address>1022 KitaleRWANDA</Address>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; WH 605; 2 KG Bag [Stock]</Dscription>
+    <Quantity>4.000000</Quantity>
+    <OcrCode2>FOP</OcrCode2>
+    <PriceAfVAT>0.000000</PriceAfVAT>
+    <FreeTxt />
+    <unitMsr>KGS</unitMsr>
+    <GTotal>0.000000</GTotal>
+    <GTotalFC>0.000000</GTotalFC>
+    <GTotalSC>0.000000</GTotalSC>
+    <Price>0.000000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>0.000000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00810</ICode>
+    <LineNum>1</LineNum>
+    <WhsName>Karongi</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <Bin_x0020_Code>KARONGI-DAMAGED</Bin_x0020_Code>
+  </Table>
+  <Table>
+    <U_NAME>Pauline Poulet</U_NAME>
+    <AftLineNum>1</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>USD</DocCur>
+    <TaxCode>I3</TaxCode>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>10262</DocEntry>
+    <DocNum>10262</DocNum>
+    <DocDate>2022-01-24T00:00:00+03:00</DocDate>
+    <DocDueDate>2022-01-24T00:00:00+03:00</DocDueDate>
+    <CardName>Western Seed Company Ltd</CardName>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>3488.800000</DocTotal>
+    <DocTotalFC>3.560000</DocTotalFC>
+    <DocTotalSy>3.560000</DocTotalSy>
+    <Comments>Based on Web GLOBAL PO #15633 Based On Purchase Orders 20002533.</Comments>
+    <CurSource>C</CurSource>
+    <Address2>RWANDA</Address2>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <LicTradNum>P000613949Y</LicTradNum>
+    <DiscSum>0.000000</DiscSum>
+    <Address>1022 KitaleRWANDA</Address>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; WH 605; 2 KG Bag [Stock]</Dscription>
+    <Quantity>4.000000</Quantity>
+    <OcrCode2>FOP</OcrCode2>
+    <PriceAfVAT>0.000000</PriceAfVAT>
+    <FreeTxt />
+    <unitMsr>KGS</unitMsr>
+    <GTotal>0.000000</GTotal>
+    <GTotalFC>0.000000</GTotalFC>
+    <GTotalSC>0.000000</GTotalSC>
+    <Price>0.000000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>0.000000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00810</ICode>
+    <LineNum>1</LineNum>
+    <WhsName>Karongi</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <Bin_x0020_Code>KARONGI-DAMAGED</Bin_x0020_Code>
+  </Table>
+</NewDataSet>

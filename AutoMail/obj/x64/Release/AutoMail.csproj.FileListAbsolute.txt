@@ -1,0 +1,32 @@
+C:\Users\adams.salano\AppData\Local\Temp\7\claude\c--OAFadd--HANAVersionsSAPAddons--ANGE-PRACTICE-SAP-B1-AutoMail\52407930-803f-4f05-a906-abe7ad031ae4\scratchpad\build\OAF_AutoMail.exe.config
+C:\Users\adams.salano\AppData\Local\Temp\7\claude\c--OAFadd--HANAVersionsSAPAddons--ANGE-PRACTICE-SAP-B1-AutoMail\52407930-803f-4f05-a906-abe7ad031ae4\scratchpad\build\OAF_AutoMail.exe
+C:\Users\adams.salano\AppData\Local\Temp\7\claude\c--OAFadd--HANAVersionsSAPAddons--ANGE-PRACTICE-SAP-B1-AutoMail\52407930-803f-4f05-a906-abe7ad031ae4\scratchpad\build\OAF_AutoMail.pdb
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\obj\x64\Release\AutoMail.csproj.AssemblyReference.cache
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\obj\x64\Release\AutoMail.csproj.CoreCompileInputs.cache
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\obj\x64\Release\AutoMail.csproj.Up2Date
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\obj\x64\Release\OAF_AutoMail.exe
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\obj\x64\Release\OAF_AutoMail.pdb
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Procedures\_OAF_L_Delivery.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Procedures\_OAF_L_GoodsIssue.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Procedures\_OAF_L_GoodsReceipt.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Procedures\_OAF_L_GoodsReceiptPO.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Procedures\_OAF_L_GoodsReturn.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Procedures\_OAF_L_InventoryTransfer.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Procedures\_OAF_L_Outgoing_Payments.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Procedures\_OAF_L_Return.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\OAF_AutoMail.exe.config
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\OAF_AutoMail.exe
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\OAF_AutoMail.pdb
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\stdole.dll
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\Inventory Count.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\Issue For Production.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\OAF TMS v6_Email.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\OAF_Delivery -Sales_Delivery.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\OAF_Goods Issue - Minus Booking.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\OAF_Goods Receipt - Plus Booking.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\OAF_Inventory_Transfer.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\OAF_PurchaseReceipt -Receipt.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\OAF_PurchaseReturns.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\OAF_Sales Returns -Returns.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\Outgoing Payment_New.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Release\Report\Receipt From Production.rpt

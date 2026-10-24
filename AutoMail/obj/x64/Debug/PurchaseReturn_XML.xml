@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="BatchNum" type="xs:string" minOccurs="0" />
+                <xs:element name="SupplierLot" type="xs:string" minOccurs="0" />
+                <xs:element name="DOCENTRY" type="xs:int" minOccurs="0" />
+                <xs:element name="doc" type="xs:int" minOccurs="0" />
+                <xs:element name="OBJTYPE" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DOCNUM" type="xs:int" minOccurs="0" />
+                <xs:element name="line" type="xs:int" minOccurs="0" />
+                <xs:element name="ITEMCODE" type="xs:string" minOccurs="0" />
+                <xs:element name="ITEMNAME" type="xs:string" minOccurs="0" />
+                <xs:element name="UOM" type="xs:string" minOccurs="0" />
+                <xs:element name="DocDate" type="xs:string" minOccurs="0" />
+                <xs:element name="Location" type="xs:string" minOccurs="0" />
+                <xs:element name="Dept" type="xs:string" minOccurs="0" />
+                <xs:element name="Comments" type="xs:string" minOccurs="0" />
+                <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Truck" type="xs:string" minOccurs="0" />
+                <xs:element name="WhsCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CardCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CardName" type="xs:string" minOccurs="0" />
+                <xs:element name="CANCELED" type="xs:string" minOccurs="0" />
+                <xs:element name="NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="Bin_x0020_Location" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DOCENTRY>26</DOCENTRY>
+    <doc>26</doc>
+    <OBJTYPE>21</OBJTYPE>
+    <DOCNUM>26</DOCNUM>
+    <line>0</line>
+    <ITEMCODE>S-00106</ITEMCODE>
+    <ITEMNAME>Maize; PAN 15; 2 KG Bag [Stock]</ITEMNAME>
+    <UOM>KGS</UOM>
+    <DocDate>05/01/2021</DocDate>
+    <Location>KHQ</Location>
+    <Dept>FOP</Dept>
+    <Comments>Based on Web GLOBAL PO #15465 Based On Purchase Orders 11834. Based On Goods Receipt PO 13701.</Comments>
+    <Quantity>2339.000000</Quantity>
+    <WhsCode>Malava</WhsCode>
+    <CardCode>S-I-USA-0016</CardCode>
+    <CardName>Pannar Seed Kenya</CardName>
+    <CANCELED>N</CANCELED>
+    <Bin_x0020_Location>MALAVA-SYSTEM-BIN-LOCATION</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <DOCENTRY>26</DOCENTRY>
+    <doc>26</doc>
+    <OBJTYPE>21</OBJTYPE>
+    <DOCNUM>26</DOCNUM>
+    <line>1</line>
+    <ITEMCODE>S-00534</ITEMCODE>
+    <ITEMNAME>Maize; PAN 691; 2 KG Bag [Stock]</ITEMNAME>
+    <UOM>KGS</UOM>
+    <DocDate>05/01/2021</DocDate>
+    <Location>KHQ</Location>
+    <Dept>FOP</Dept>
+    <Comments>Based on Web GLOBAL PO #15465 Based On Purchase Orders 11834. Based On Goods Receipt PO 13701.</Comments>
+    <Quantity>1334.000000</Quantity>
+    <WhsCode>Malava</WhsCode>
+    <CardCode>S-I-USA-0016</CardCode>
+    <CardName>Pannar Seed Kenya</CardName>
+    <CANCELED>N</CANCELED>
+    <Bin_x0020_Location>MALAVA-SYSTEM-BIN-LOCATION</Bin_x0020_Location>
+  </Table>
+</NewDataSet>

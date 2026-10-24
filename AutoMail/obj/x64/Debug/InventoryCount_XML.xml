@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DOCENTRY" type="xs:int" minOccurs="0" />
+                <xs:element name="OBJTYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="DOCNUM" type="xs:int" minOccurs="0" />
+                <xs:element name="line" type="xs:int" minOccurs="0" />
+                <xs:element name="ITEMCODE" type="xs:string" minOccurs="0" />
+                <xs:element name="ITEMNAME" type="xs:string" minOccurs="0" />
+                <xs:element name="UOM" type="xs:string" minOccurs="0" />
+                <xs:element name="DocDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Location" type="xs:string" minOccurs="0" />
+                <xs:element name="Dept" type="xs:string" minOccurs="0" />
+                <xs:element name="Remarks" type="xs:string" minOccurs="0" />
+                <xs:element name="Count_Errors" type="xs:string" minOccurs="0" />
+                <xs:element name="WhsCode" type="xs:string" minOccurs="0" />
+                <xs:element name="InWhsQty" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CountQty" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BinEntry" type="xs:int" minOccurs="0" />
+                <xs:element name="Counted" type="xs:string" minOccurs="0" />
+                <xs:element name="Difference" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Bin_x0020_Location" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DOCENTRY>1391</DOCENTRY>
+    <OBJTYPE>1470000065</OBJTYPE>
+    <DOCNUM>1391</DOCNUM>
+    <line>1</line>
+    <ITEMCODE>COST00164</ITEMCODE>
+    <ITEMNAME>DAP; 18-46-0; 50 KG Bag [Stock]</ITEMNAME>
+    <UOM>50 KG Bag</UOM>
+    <DocDate>2022-03-22T00:00:00+03:00</DocDate>
+    <Count_Errors>Previous miscount</Count_Errors>
+    <WhsCode>Malava</WhsCode>
+    <InWhsQty>2809.000000</InWhsQty>
+    <CountQty>2000.000000</CountQty>
+    <BinEntry>322</BinEntry>
+    <Counted>Y</Counted>
+    <Difference>-809.000000</Difference>
+    <Bin_x0020_Location>MALAVA-GOOD</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <DOCENTRY>1391</DOCENTRY>
+    <OBJTYPE>1470000065</OBJTYPE>
+    <DOCNUM>1391</DOCNUM>
+    <line>2</line>
+    <ITEMCODE>COST00001</ITEMCODE>
+    <ITEMNAME>Anti Stress; 20 GM Unit [Stock]</ITEMNAME>
+    <UOM>ITEM</UOM>
+    <DocDate>2022-03-22T00:00:00+03:00</DocDate>
+    <Count_Errors>Fraud</Count_Errors>
+    <WhsCode>Malava</WhsCode>
+    <InWhsQty>0.000000</InWhsQty>
+    <CountQty>15.000000</CountQty>
+    <BinEntry>322</BinEntry>
+    <Counted>Y</Counted>
+    <Difference>15.000000</Difference>
+    <Bin_x0020_Location>MALAVA-GOOD</Bin_x0020_Location>
+  </Table>
+</NewDataSet>

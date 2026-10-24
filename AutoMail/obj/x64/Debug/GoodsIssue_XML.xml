@@ -1,0 +1,213 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="U_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="AftLineNum" type="xs:int" minOccurs="0" />
+                <xs:element name="LineSeq" type="xs:int" minOccurs="0" />
+                <xs:element name="SrNo" type="xs:int" minOccurs="0" />
+                <xs:element name="DocCur" type="xs:string" minOccurs="0" />
+                <xs:element name="TaxCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CompVat" type="xs:string" minOccurs="0" />
+                <xs:element name="CompPin" type="xs:string" minOccurs="0" />
+                <xs:element name="ApprovedBy" type="xs:string" minOccurs="0" />
+                <xs:element name="DocEntry" type="xs:int" minOccurs="0" />
+                <xs:element name="DocNum" type="xs:int" minOccurs="0" />
+                <xs:element name="DocDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="DocDueDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CardName" type="xs:string" minOccurs="0" />
+                <xs:element name="NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="VatSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="VatSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="VatSumSy" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DocTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DocTotalFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DocTotalSy" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Comments" type="xs:string" minOccurs="0" />
+                <xs:element name="CurSource" type="xs:string" minOccurs="0" />
+                <xs:element name="Address2" type="xs:string" minOccurs="0" />
+                <xs:element name="WTSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="WTSumFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="WTSumSC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="RoundDif" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Ref2" type="xs:string" minOccurs="0" />
+                <xs:element name="LicTradNum" type="xs:string" minOccurs="0" />
+                <xs:element name="DiscSum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Address" type="xs:string" minOccurs="0" />
+                <xs:element name="Printed" type="xs:string" minOccurs="0" />
+                <xs:element name="TrnspCode" type="xs:short" minOccurs="0" />
+                <xs:element name="Dscription" type="xs:string" minOccurs="0" />
+                <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+                <xs:element name="OcrCode2" type="xs:string" minOccurs="0" />
+                <xs:element name="PriceAfVAT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="FreeTxt" type="xs:string" minOccurs="0" />
+                <xs:element name="unitMsr" type="xs:string" minOccurs="0" />
+                <xs:element name="GTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GTotalFC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GTotalSC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SeriesName" type="xs:string" minOccurs="0" />
+                <xs:element name="Price" type="xs:decimal" minOccurs="0" />
+                <xs:element name="VatSumD" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LineTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MachineNo" type="xs:string" minOccurs="0" />
+                <xs:element name="ActSeries" type="xs:string" minOccurs="0" />
+                <xs:element name="ProjectName" type="xs:string" minOccurs="0" />
+                <xs:element name="ICode" type="xs:string" minOccurs="0" />
+                <xs:element name="LineNum" type="xs:int" minOccurs="0" />
+                <xs:element name="WhsName" type="xs:string" minOccurs="0" />
+                <xs:element name="ItmsGrpNam" type="xs:string" minOccurs="0" />
+                <xs:element name="Bin_x0020_Code" type="xs:string" minOccurs="0" />
+                <xs:element name="ItemCode" type="xs:string" minOccurs="0" />
+                <xs:element name="BatchNum" type="xs:string" minOccurs="0" />
+                <xs:element name="WhsCode" type="xs:string" minOccurs="0" />
+                <xs:element name="LineNum1" type="xs:long" minOccurs="0" />
+                <xs:element name="ItemName" type="xs:string" minOccurs="0" />
+                <xs:element name="BaseType" type="xs:int" minOccurs="0" />
+                <xs:element name="BaseEntry" type="xs:int" minOccurs="0" />
+                <xs:element name="BaseNum" type="xs:int" minOccurs="0" />
+                <xs:element name="BaseLinNum" type="xs:int" minOccurs="0" />
+                <xs:element name="DocDate1" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Quantity1" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CardCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CardName1" type="xs:string" minOccurs="0" />
+                <xs:element name="Direction" type="xs:int" minOccurs="0" />
+                <xs:element name="CreateDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="BsDocType" type="xs:int" minOccurs="0" />
+                <xs:element name="BsDocEntry" type="xs:int" minOccurs="0" />
+                <xs:element name="BsDocLine" type="xs:int" minOccurs="0" />
+                <xs:element name="DataSource" type="xs:string" minOccurs="0" />
+                <xs:element name="UserSign" type="xs:int" minOccurs="0" />
+                <xs:element name="ItemCode1" type="xs:string" minOccurs="0" />
+                <xs:element name="SysNumber" type="xs:int" minOccurs="0" />
+                <xs:element name="DistNumber" type="xs:string" minOccurs="0" />
+                <xs:element name="MnfSerial" type="xs:string" minOccurs="0" />
+                <xs:element name="LotNumber" type="xs:string" minOccurs="0" />
+                <xs:element name="ExpDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="MnfDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="InDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="GrntStart" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="GrntExp" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CreateDate1" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Location" type="xs:string" minOccurs="0" />
+                <xs:element name="Status" type="xs:string" minOccurs="0" />
+                <xs:element name="Notes" type="xs:string" minOccurs="0" />
+                <xs:element name="DataSource1" type="xs:string" minOccurs="0" />
+                <xs:element name="UserSign1" type="xs:short" minOccurs="0" />
+                <xs:element name="Transfered" type="xs:string" minOccurs="0" />
+                <xs:element name="Instance" type="xs:short" minOccurs="0" />
+                <xs:element name="AbsEntry" type="xs:int" minOccurs="0" />
+                <xs:element name="ObjType" type="xs:string" minOccurs="0" />
+                <xs:element name="itemName1" type="xs:string" minOccurs="0" />
+                <xs:element name="LogInstanc" type="xs:int" minOccurs="0" />
+                <xs:element name="UserSign2" type="xs:short" minOccurs="0" />
+                <xs:element name="UpdateDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CostTotal" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Quantity2" type="xs:decimal" minOccurs="0" />
+                <xs:element name="QuantOut" type="xs:decimal" minOccurs="0" />
+                <xs:element name="PriceDiff" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Balance" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TrackingNt" type="xs:int" minOccurs="0" />
+                <xs:element name="TrackiNtLn" type="xs:int" minOccurs="0" />
+                <xs:element name="SumDec" type="xs:short" minOccurs="0" />
+                <xs:element name="U_Attachment1" type="xs:string" minOccurs="0" />
+                <xs:element name="U_Germination" type="xs:decimal" minOccurs="0" />
+                <xs:element name="U_Purity" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <U_NAME>Gerald Akhonya</U_NAME>
+    <AftLineNum>0</AftLineNum>
+    <LineSeq>-1</LineSeq>
+    <SrNo>0</SrNo>
+    <DocCur>KES</DocCur>
+    <CompVat />
+    <CompPin />
+    <ApprovedBy />
+    <DocEntry>9091</DocEntry>
+    <DocNum>7858</DocNum>
+    <DocDate>2023-01-20T00:00:00+03:00</DocDate>
+    <DocDueDate>2023-01-20T00:00:00+03:00</DocDueDate>
+    <VatSum>0.000000</VatSum>
+    <VatSumFC>0.000000</VatSumFC>
+    <VatSumSy>0.000000</VatSumSy>
+    <DocTotal>4320.000000</DocTotal>
+    <DocTotalFC>0.000000</DocTotalFC>
+    <DocTotalSy>35.140000</DocTotalSy>
+    <Comments>Goods receipt done in error correction, Based on End of Month counts</Comments>
+    <CurSource>L</CurSource>
+    <WTSum>0.000000</WTSum>
+    <WTSumFC>0.000000</WTSumFC>
+    <WTSumSC>0.000000</WTSumSC>
+    <RoundDif>0.000000</RoundDif>
+    <DiscSum>0.000000</DiscSum>
+    <Printed>N</Printed>
+    <TrnspCode>-1</TrnspCode>
+    <Dscription>Maize; H 614; 2 KG Bag [Stock]</Dscription>
+    <Quantity>12.000000</Quantity>
+    <OcrCode2>LOG</OcrCode2>
+    <PriceAfVAT>0.000000</PriceAfVAT>
+    <unitMsr>2 KG Bag</unitMsr>
+    <GTotal>0.000000</GTotal>
+    <GTotalFC>0.000000</GTotalFC>
+    <GTotalSC>0.000000</GTotalSC>
+    <Price>360.000000</Price>
+    <VatSumD>0.000000</VatSumD>
+    <LineTotal>4320.000000</LineTotal>
+    <ActSeries>Primary</ActSeries>
+    <ICode>COST00647</ICode>
+    <LineNum>0</LineNum>
+    <WhsName>Sagana</WhsName>
+    <ItmsGrpNam>Seeds and Plants</ItmsGrpNam>
+    <Bin_x0020_Code>SAGANA-DESTROYED</Bin_x0020_Code>
+    <ItemCode>COST00647</ItemCode>
+    <BatchNum>MAI-KSC-22-00505 HP</BatchNum>
+    <WhsCode>Sagana</WhsCode>
+    <LineNum1>1</LineNum1>
+    <ItemName>Maize; H 614; 2 KG Bag [Stock]</ItemName>
+    <BaseType>60</BaseType>
+    <BaseEntry>9091</BaseEntry>
+    <BaseNum>7858</BaseNum>
+    <BaseLinNum>0</BaseLinNum>
+    <DocDate1>2023-01-20T00:00:00+03:00</DocDate1>
+    <Quantity1>12.000000</Quantity1>
+    <CardCode>5210001</CardCode>
+    <CardName1>Stock Adjustments</CardName1>
+    <Direction>1</Direction>
+    <CreateDate>2023-02-09T00:00:00+03:00</CreateDate>
+    <BsDocType>-1</BsDocType>
+    <BsDocEntry>0</BsDocEntry>
+    <BsDocLine>-1</BsDocLine>
+    <DataSource>N</DataSource>
+    <ItemCode1>COST00647</ItemCode1>
+    <SysNumber>56</SysNumber>
+    <DistNumber>MAI-KSC-22-00505 HP</DistNumber>
+    <InDate>2023-02-08T00:00:00+03:00</InDate>
+    <CreateDate1>2023-02-08T00:00:00+03:00</CreateDate1>
+    <Status>0</Status>
+    <DataSource1>N</DataSource1>
+    <UserSign1>82</UserSign1>
+    <Transfered>N</Transfered>
+    <Instance>0</Instance>
+    <AbsEntry>4796</AbsEntry>
+    <ObjType>10000044</ObjType>
+    <itemName1>Maize; H 614; 2 KG Bag [Stock]</itemName1>
+    <UpdateDate>2023-02-08T00:00:00+03:00</UpdateDate>
+    <CostTotal>0.000000</CostTotal>
+    <Quantity2>0.000000</Quantity2>
+    <QuantOut>0.000000</QuantOut>
+    <PriceDiff>0.000000</PriceDiff>
+    <Balance>0.000000</Balance>
+    <U_Germination>0.000000</U_Germination>
+    <U_Purity>0.000000</U_Purity>
+  </Table>
+</NewDataSet>

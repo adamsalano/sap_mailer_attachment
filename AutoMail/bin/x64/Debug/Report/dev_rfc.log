@@ -1,0 +1,10 @@
+
+**** Log file opened at 2026-10-24 12:06:27.686674 UTC+03:00 (E. Africa Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 01:34:20
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report, Program: crw64
+ Hardware: PC with Windows NT 16x AMD64 Level 23 (Mod 49 Step 0), Operating_system: Windows NT 10.0
+ Hostname: RICE02, IP address: 10.0.0.3, IPv6 address: fe80::9400:2ff:fe0c:d27d
+
+2026-10-24 12:06:27.687199 [51684] >> Info entry
+	Did not find config file C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\sapnwrfc.ini.

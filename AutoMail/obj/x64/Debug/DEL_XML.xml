@@ -1,0 +1,194 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="BatchNum" type="xs:string" minOccurs="0" />
+                <xs:element name="SupplierLot" type="xs:string" minOccurs="0" />
+                <xs:element name="DOCENTRY" type="xs:int" minOccurs="0" />
+                <xs:element name="doc" type="xs:int" minOccurs="0" />
+                <xs:element name="OBJTYPE" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DOCNUM" type="xs:int" minOccurs="0" />
+                <xs:element name="line" type="xs:int" minOccurs="0" />
+                <xs:element name="ITEMCODE" type="xs:string" minOccurs="0" />
+                <xs:element name="ITEMNAME" type="xs:string" minOccurs="0" />
+                <xs:element name="UOM" type="xs:string" minOccurs="0" />
+                <xs:element name="DocDate" type="xs:string" minOccurs="0" />
+                <xs:element name="Location" type="xs:string" minOccurs="0" />
+                <xs:element name="Dept" type="xs:string" minOccurs="0" />
+                <xs:element name="Comments" type="xs:string" minOccurs="0" />
+                <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Truck" type="xs:string" minOccurs="0" />
+                <xs:element name="WhsCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CardCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CardName" type="xs:string" minOccurs="0" />
+                <xs:element name="CANCELED" type="xs:string" minOccurs="0" />
+                <xs:element name="NumAtCard" type="xs:string" minOccurs="0" />
+                <xs:element name="Bin_x0020_Location" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DOCENTRY>1620</DOCENTRY>
+    <doc>1620</doc>
+    <OBJTYPE>15</OBJTYPE>
+    <DOCNUM>1620</DOCNUM>
+    <line>0</line>
+    <ITEMCODE>COST00164</ITEMCODE>
+    <ITEMNAME>DAP; 18-46-0; 50 KG Bag [Stock]</ITEMNAME>
+    <UOM>50 KG Bag</UOM>
+    <DocDate>17/01/2022</DocDate>
+    <Location>BGM</Location>
+    <Dept>FOP</Dept>
+    <Comments>Based on Roster TMS Doc# 1 Truck No BGM Main 73 -- Fuso L 3</Comments>
+    <Quantity>59.000000</Quantity>
+    <Truck />
+    <WhsCode>Malava</WhsCode>
+    <CardCode>C-R-KEN-0002</CardCode>
+    <CardName>DUKA CLIENT</CardName>
+    <CANCELED>N</CANCELED>
+    <Bin_x0020_Location>MALAVA-GOOD</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <DOCENTRY>1620</DOCENTRY>
+    <doc>1620</doc>
+    <OBJTYPE>15</OBJTYPE>
+    <DOCNUM>1620</DOCNUM>
+    <line>1</line>
+    <ITEMCODE>COST01131</ITEMCODE>
+    <ITEMNAME>Urea; 46-0-0; 25 KG Bag [Stock]</ITEMNAME>
+    <UOM>25 KG Bag</UOM>
+    <DocDate>17/01/2022</DocDate>
+    <Location>BGM</Location>
+    <Dept>FOP</Dept>
+    <Comments>Based on Roster TMS Doc# 1 Truck No BGM Main 73 -- Fuso L 3</Comments>
+    <Quantity>39.000000</Quantity>
+    <Truck />
+    <WhsCode>Malava</WhsCode>
+    <CardCode>C-R-KEN-0002</CardCode>
+    <CardName>DUKA CLIENT</CardName>
+    <CANCELED>N</CANCELED>
+    <Bin_x0020_Location>MALAVA-GOOD</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <BatchNum>K0123</BatchNum>
+    <DOCENTRY>1621</DOCENTRY>
+    <doc>1621</doc>
+    <OBJTYPE>15</OBJTYPE>
+    <DOCNUM>1621</DOCNUM>
+    <line>4</line>
+    <ITEMCODE>COST00651</ITEMCODE>
+    <ITEMNAME>Maize; H 6213; 2 KG Bag [Stock]</ITEMNAME>
+    <UOM>2 KG Bag</UOM>
+    <DocDate>28/06/2022</DocDate>
+    <Location>BGM</Location>
+    <Dept>FOP</Dept>
+    <Comments />
+    <Quantity>3.000000</Quantity>
+    <Truck />
+    <WhsCode>BGM Main</WhsCode>
+    <CardCode>C-R-KEN-0002</CardCode>
+    <CardName>DUKA CLIENT</CardName>
+    <CANCELED>N</CANCELED>
+    <NumAtCard />
+    <Bin_x0020_Location>BGM MAIN-GOOD</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <BatchNum>W0035</BatchNum>
+    <SupplierLot>20-21-498-ZEM-2691CHP</SupplierLot>
+    <DOCENTRY>1621</DOCENTRY>
+    <doc>1621</doc>
+    <OBJTYPE>15</OBJTYPE>
+    <DOCNUM>1621</DOCNUM>
+    <line>5</line>
+    <ITEMCODE>COST00799</ITEMCODE>
+    <ITEMNAME>Maize; WH 505; 2 KG Bag [Stock]</ITEMNAME>
+    <UOM>2 KG Bag</UOM>
+    <DocDate>28/06/2022</DocDate>
+    <Location>BGM</Location>
+    <Dept>FOP</Dept>
+    <Comments />
+    <Quantity>5.000000</Quantity>
+    <Truck />
+    <WhsCode>BGM Main</WhsCode>
+    <CardCode>C-R-KEN-0002</CardCode>
+    <CardName>DUKA CLIENT</CardName>
+    <CANCELED>N</CANCELED>
+    <NumAtCard />
+    <Bin_x0020_Location>BGM MAIN-GOOD</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <DOCENTRY>1621</DOCENTRY>
+    <doc>1621</doc>
+    <OBJTYPE>15</OBJTYPE>
+    <DOCNUM>1621</DOCNUM>
+    <line>0</line>
+    <ITEMCODE>COST01063</ITEMCODE>
+    <ITEMNAME>Tree Socket (3 in X 6 in) [Stock]</ITEMNAME>
+    <UOM>ITEM</UOM>
+    <DocDate>28/06/2022</DocDate>
+    <Location>BGM</Location>
+    <Dept>FOP</Dept>
+    <Comments />
+    <Quantity>4.000000</Quantity>
+    <Truck />
+    <WhsCode>BGM Main</WhsCode>
+    <CardCode>C-R-KEN-0002</CardCode>
+    <CardName>DUKA CLIENT</CardName>
+    <CANCELED>N</CANCELED>
+    <NumAtCard />
+    <Bin_x0020_Location>BGM MAIN-GOOD</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <DOCENTRY>1621</DOCENTRY>
+    <doc>1621</doc>
+    <OBJTYPE>15</OBJTYPE>
+    <DOCNUM>1621</DOCNUM>
+    <line>1</line>
+    <ITEMCODE>COST00887</ITEMCODE>
+    <ITEMNAME>NPK-17; 17-17-17; 25 KG Bag [Stock]</ITEMNAME>
+    <UOM>5 KG Bag</UOM>
+    <DocDate>28/06/2022</DocDate>
+    <Location>BGM</Location>
+    <Dept>FOP</Dept>
+    <Comments />
+    <Quantity>5.000000</Quantity>
+    <Truck />
+    <WhsCode>BGM Main</WhsCode>
+    <CardCode>C-R-KEN-0002</CardCode>
+    <CardName>DUKA CLIENT</CardName>
+    <CANCELED>N</CANCELED>
+    <NumAtCard />
+    <Bin_x0020_Location>BGM MAIN-GOOD</Bin_x0020_Location>
+  </Table>
+  <Table>
+    <DOCENTRY>1621</DOCENTRY>
+    <doc>1621</doc>
+    <OBJTYPE>15</OBJTYPE>
+    <DOCNUM>1621</DOCNUM>
+    <line>2</line>
+    <ITEMCODE>COST00059</ITEMCODE>
+    <ITEMNAME>CAN; 26-0-0; 25 KG Bag [Stock]</ITEMNAME>
+    <UOM>25 KG Bag</UOM>
+    <DocDate>28/06/2022</DocDate>
+    <Location>BGM</Location>
+    <Dept>FOP</Dept>
+    <Comments />
+    <Quantity>6.000000</Quantity>
+    <Truck />
+    <WhsCode>BGM Main</WhsCode>
+    <CardCode>C-R-KEN-0002</CardCode>
+    <CardName>DUKA CLIENT</CardName>
+    <CANCELED>N</CANCELED>
+    <NumAtCard />
+    <Bin_x0020_Location>BGM MAIN-GOOD</Bin_x0020_Location>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,29 @@
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\OAF_AutoMail.exe.config
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\OAF_AutoMail.exe
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\OAF_AutoMail.pdb
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\stdole.dll
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\obj\x64\Debug\AutoMail.csproj.CoreCompileInputs.cache
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\obj\x64\Debug\OAF_AutoMail.exe
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\obj\x64\Debug\OAF_AutoMail.pdb
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\obj\x64\Debug\AutoMail.csproj.AssemblyReference.cache
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\obj\x64\Debug\AutoMail.csproj.Up2Date
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Procedures\_OAF_L_Delivery.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Procedures\_OAF_L_GoodsIssue.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Procedures\_OAF_L_GoodsReceipt.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Procedures\_OAF_L_GoodsReceiptPO.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Procedures\_OAF_L_GoodsReturn.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Procedures\_OAF_L_InventoryTransfer.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Procedures\_OAF_L_Outgoing_Payments.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Procedures\_OAF_L_Return.sql
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\Inventory Count.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\Issue For Production.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\OAF TMS v6_Email.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\OAF_Delivery -Sales_Delivery.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\OAF_Goods Issue - Minus Booking.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\OAF_Goods Receipt - Plus Booking.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\OAF_Inventory_Transfer.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\OAF_PurchaseReceipt -Receipt.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\OAF_PurchaseReturns.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\OAF_Sales Returns -Returns.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\Outgoing Payment_New.rpt
+C:\OAFadd\_HANAVersionsSAPAddons\_ANGE PRACTICE\SAP B1 AutoMail\AutoMail\bin\x64\Debug\Report\Receipt From Production.rpt

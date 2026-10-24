@@ -1,0 +1,143 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DocEntry" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DocNum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DocType" type="xs:string" minOccurs="0" />
+                <xs:element name="CANCELED" type="xs:string" minOccurs="0" />
+                <xs:element name="DocStatus" type="xs:string" minOccurs="0" />
+                <xs:element name="DocDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="DocDueDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Comments" type="xs:string" minOccurs="0" />
+                <xs:element name="JrnlMemo" type="xs:string" minOccurs="0" />
+                <xs:element name="U_TruckID" type="xs:string" minOccurs="0" />
+                <xs:element name="U_TruckContact" type="xs:string" minOccurs="0" />
+                <xs:element name="U_PLUS_TYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="U_MINUS_TYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="U_ITType" type="xs:string" minOccurs="0" />
+                <xs:element name="U_OdooID" type="xs:string" minOccurs="0" />
+                <xs:element name="U_DriverNumber" type="xs:decimal" minOccurs="0" />
+                <xs:element name="U_DriverID" type="xs:string" minOccurs="0" />
+                <xs:element name="U_SecurityName" type="xs:string" minOccurs="0" />
+                <xs:element name="SenderName" type="xs:string" minOccurs="0" />
+                <xs:element name="U_SecurityID" type="xs:string" minOccurs="0" />
+                <xs:element name="U_ReceiverName" type="xs:string" minOccurs="0" />
+                <xs:element name="U_DispatchingWhse" type="xs:string" minOccurs="0" />
+                <xs:element name="U_TransferType" type="xs:string" minOccurs="0" />
+                <xs:element name="U_AuthorizedBy" type="xs:string" minOccurs="0" />
+                <xs:element name="U_Inv_Movt_Reasons" type="xs:decimal" minOccurs="0" />
+                <xs:element name="U_ChannelID" type="xs:string" minOccurs="0" />
+                <xs:element name="U_TrailerNumber" type="xs:string" minOccurs="0" />
+                <xs:element name="U_OdooDispatchID" type="xs:string" minOccurs="0" />
+                <xs:element name="U_Waybill" type="xs:string" minOccurs="0" />
+                <xs:element name="IGE1.DocEntry" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LineNum" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LineStatus" type="xs:string" minOccurs="0" />
+                <xs:element name="ItemCode" type="xs:string" minOccurs="0" />
+                <xs:element name="Dscription" type="xs:string" minOccurs="0" />
+                <xs:element name="Quantity" type="xs:decimal" minOccurs="0" />
+                <xs:element name="OpenQty" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Currency" type="xs:string" minOccurs="0" />
+                <xs:element name="WhsCode" type="xs:string" minOccurs="0" />
+                <xs:element name="Department" type="xs:string" minOccurs="0" />
+                <xs:element name="Location" type="xs:string" minOccurs="0" />
+                <xs:element name="Grant" type="xs:string" minOccurs="0" />
+                <xs:element name="UomEntry" type="xs:decimal" minOccurs="0" />
+                <xs:element name="UomCode" type="xs:string" minOccurs="0" />
+                <xs:element name="U_WebPRID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="U_Requestor" type="xs:string" minOccurs="0" />
+                <xs:element name="LineTruckId" type="xs:string" minOccurs="0" />
+                <xs:element name="LineTruckContact" type="xs:string" minOccurs="0" />
+                <xs:element name="BinID" type="xs:string" minOccurs="0" />
+                <xs:element name="BinCode" type="xs:string" minOccurs="0" />
+                <xs:element name="SL1Code" type="xs:string" minOccurs="0" />
+                <xs:element name="BinQty" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DAMAGEDQTY" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DESTROYEDQTY" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GOODQTY" type="xs:decimal" minOccurs="0" />
+                <xs:element name="WARRANTYQTY" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TRANSITQTY" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LOSSQTY" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Item_Weight" type="xs:string" minOccurs="0" />
+                <xs:element name="SecuritySign" type="xs:string" minOccurs="0" />
+                <xs:element name="ReceiverSign" type="xs:string" minOccurs="0" />
+                <xs:element name="SenderSign" type="xs:string" minOccurs="0" />
+                <xs:element name="DriverSign" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <DocEntry>3643</DocEntry>
+    <DocNum>36820</DocNum>
+    <DocType>I</DocType>
+    <CANCELED>N</CANCELED>
+    <DocStatus>O</DocStatus>
+    <DocDate>2026-06-12T00:00:00+03:00</DocDate>
+    <DocDueDate>2026-06-12T00:00:00+03:00</DocDueDate>
+    <Comments>Internal No. WH/INT/00215, Based on Odoo PR No # PR001113</Comments>
+    <JrnlMemo>Goods Issue</JrnlMemo>
+    <U_TruckID />
+    <U_TruckContact />
+    <U_PLUS_TYPE />
+    <U_MINUS_TYPE />
+    <U_ITType>ITL</U_ITType>
+    <U_OdooID>WH/INT/00215</U_OdooID>
+    <U_DriverNumber>0</U_DriverNumber>
+    <U_DriverID />
+    <U_SecurityName />
+    <SenderName />
+    <U_SecurityID />
+    <U_ReceiverName />
+    <U_DispatchingWhse />
+    <U_TransferType />
+    <U_AuthorizedBy />
+    <U_Inv_Movt_Reasons>0</U_Inv_Movt_Reasons>
+    <U_ChannelID />
+    <U_TrailerNumber />
+    <U_OdooDispatchID />
+    <U_Waybill />
+    <IGE1.DocEntry>3643</IGE1.DocEntry>
+    <LineNum>0</LineNum>
+    <LineStatus>O</LineStatus>
+    <ItemCode>28-02-006S</ItemCode>
+    <Dscription>Marker Pen [Stock]</Dscription>
+    <Quantity>1</Quantity>
+    <OpenQty>1</OpenQty>
+    <Currency>KES</Currency>
+    <WhsCode>NYERI</WhsCode>
+    <Department>FOP</Department>
+    <Location>AHE</Location>
+    <Grant />
+    <UomEntry>30</UomEntry>
+    <UomCode>ITEM</UomCode>
+    <U_WebPRID>1113</U_WebPRID>
+    <U_Requestor>Test Rwanda One</U_Requestor>
+    <LineTruckId />
+    <LineTruckContact />
+    <BinID />
+    <BinCode />
+    <SL1Code />
+    <BinQty>0</BinQty>
+    <DAMAGEDQTY>0</DAMAGEDQTY>
+    <DESTROYEDQTY>0</DESTROYEDQTY>
+    <GOODQTY>0</GOODQTY>
+    <WARRANTYQTY>0</WARRANTYQTY>
+    <TRANSITQTY>0</TRANSITQTY>
+    <LOSSQTY>0</LOSSQTY>
+    <Item_Weight>1 PCs</Item_Weight>
+    <SecuritySign />
+    <ReceiverSign />
+    <SenderSign />
+    <DriverSign />
+  </Table1>
+</NewDataSet>
